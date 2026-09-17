@@ -1,0 +1,17 @@
+<svg width="700" height="700" viewBox="0 0 700 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3D9A4"/>
+      <stop offset="45%" stop-color="#C9A054"/>
+      <stop offset="100%" stop-color="#8C6A2F"/>
+    </linearGradient>
+  </defs>
+  <circle cx="350" cy="350" r="325" fill="none" stroke="url(#gold)" stroke-width="3"/>
+  <circle cx="350" cy="350" r="298" fill="none" stroke="url(#gold)" stroke-width="1.25"/>
+  <g font-family="EB Garamond, Georgia, 'Times New Roman', serif" fill="url(#gold)" text-anchor="middle">
+    <text x="260" y="440" font-size="300" font-weight="600">D</text>
+    <text x="445" y="440" font-size="300" font-weight="600">R</text>
+  </g>
+  <line x1="350" y1="222" x2="350" y2="250" stroke="url(#gold)" stroke-width="2"/>
+  <circle cx="350" cy="212" r="3.5" fill="url(#gold)"/>
+</svg>
